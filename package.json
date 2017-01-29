@@ -1,0 +1,17 @@
+{
+  "name": "heartsuite-server",
+  "version": "1.0.0",
+  "description": "HeartSuite Server that receives heartbeat from client",
+  "main": "lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heartsuite",
+    "heartbeat",
+    "server",
+    "udp"
+  ],
+  "author": "izanagi1995",
+  "license": "MIT"
+}
