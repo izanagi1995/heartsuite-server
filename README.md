@@ -32,5 +32,6 @@ server.on('out', function(beat){
 ## Issues
 - Feature request : tag [Feature]
 - Issue : please describe the problem and give steps to reproduce
+
 ## Pull request
 - Use 2-space tabs

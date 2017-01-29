@@ -13,5 +13,13 @@
     "udp"
   ],
   "author": "izanagi1995",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izanagi1995/heartsuite-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/izanagi1995/heartsuite-server/issues"
+  },
+  "homepage": "https://github.com/izanagi1995/heartsuite-server#readme"
 }
